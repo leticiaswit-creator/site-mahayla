@@ -1,4 +1,4 @@
-# 🔗 Site Mahayla - Página de Links
+# 🔗 MAHAYLA SHEY
 
 Uma página de links (linktree) moderna e responsiva, criada para centralizar todos os seus links em um único lugar.
 
